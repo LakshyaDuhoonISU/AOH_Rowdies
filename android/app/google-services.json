@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901312310049",
+    "project_id": "comicverse-b7b5d",
+    "storage_bucket": "comicverse-b7b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901312310049:android:616533c238a1e9a12f2c60",
+        "android_client_info": {
+          "package_name": "com.mycompany.trial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBrm2iVPBP6v7eGa0IoL9CzQoDTBPOpd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
