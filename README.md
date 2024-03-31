@@ -1,4 +1,4 @@
-# trial
+# ComicVerse
 
 A new Flutter project.
 
